@@ -1,4 +1,0 @@
-epiz_33647112
-wzULvYsb6FBs8x
-put "C:\Users\Akhilsh Shukla\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\file.txt" "/htdocs/file.txt"
-quit
